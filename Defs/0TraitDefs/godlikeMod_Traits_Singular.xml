@@ -2,7 +2,7 @@
 <Defs>
     <TraitDef>
         <defName>Godlike</defName>
-        <commonality>0.001</commonality>
+        <commonality>0.01</commonality>
         <degreeDatas>
             <li>
                 <label>Godlike</label>
@@ -16,17 +16,19 @@
                     <MoveSpeed>5</MoveSpeed>
                     <MentalBreakThreshold>-1</MentalBreakThreshold>
                     <WorkSpeedGlobal>5</WorkSpeedGlobal> <!-- A lot of other statOffsets probably fall under this tag -->
-                    <PsychicSensitivity>-1</PsychicSensitivity>
                     <AimingDelayFactor>-5</AimingDelayFactor>
-                    <ShootingAccuracyPawn>2</ShootingAccuracyPawn>
+                    <ShootingAccuracyPawn>5</ShootingAccuracyPawn>
                     <!-- <MarketValueFactorOffset>1</MarketValueFactorOffset>  Pawn beauty //for some reason throws errors-->
-                    <ImmunityGainSpeed>1</ImmunityGainSpeed>
-                    <ToxicSensitivity>-1</ToxicSensitivity>
-                    <ResearchSpeed>1</ResearchSpeed>
-                    <SocialImpact>1</SocialImpact>
-                    <TameAnimalChance>1</TameAnimalChance>
-				    <TrainAnimalChance>1</TrainAnimalChance>
+                    <ImmunityGainSpeed>2</ImmunityGainSpeed>
+                    <ToxicSensitivity>-2</ToxicSensitivity>
+                    <ResearchSpeed>2</ResearchSpeed>
+                    <SocialImpact>2</SocialImpact>
+                    <TameAnimalChance>2</TameAnimalChance>
+				    <TrainAnimalChance>2</TrainAnimalChance>
                     <CarryingCapacity>200</CarryingCapacity>
+                    <ComfyTemperatureMax>+100</ComfyTemperatureMax>
+                    <ComfyTemperatureMin>-100</ComfyTemperatureMin>
+                    <PawnBeauty>10</PawnBeauty>
                 </statOffsets>
                 <skillGains>
                   <li>
