@@ -18,7 +18,7 @@
                     <WorkSpeedGlobal>5</WorkSpeedGlobal> <!-- A lot of other statOffsets probably fall under this tag -->
                     <PsychicSensitivity>-1</PsychicSensitivity>
                     <AimingDelayFactor>-5</AimingDelayFactor>
-                    <ShootingAccuracyPawn>2</ShootingAccuracyPawn>
+                    <ShootingAccuracyPawn>1</ShootingAccuracyPawn>
                     <!-- <MarketValueFactorOffset>1</MarketValueFactorOffset>  Pawn beauty //for some reason throws errors-->
                     <ImmunityGainSpeed>1</ImmunityGainSpeed>
                     <ToxicSensitivity>-1</ToxicSensitivity>
